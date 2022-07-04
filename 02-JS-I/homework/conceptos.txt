@@ -1,0 +1,5 @@
+* Variables: cajas donde se pueden guardar cosas como números y palabras, a las que le ponemos un nombre para poder encontrarlas después y usar lo que hallamos puesto dentro.
+* Strings: dato compuesto por texto, que se identifica por estar entre comillas
+* Funciones (argumentos, `return`): bloques de código que reciben variables con las cuales se pueden llevar a cabo diversas acciones como operar, transformar, analizar los datos recibidos, y se devuelven valores dependiendo del resultado
+* Declaraciones `if`: ejecuta distintos bloques de código dependiendo de ciertas condiciones predefinidas que la variable recibida puede o no cumplir
+* Valores booleanos (`true`, `false`): una variable booleana sólo puede tener uno de dos valores, verdadero o falso
